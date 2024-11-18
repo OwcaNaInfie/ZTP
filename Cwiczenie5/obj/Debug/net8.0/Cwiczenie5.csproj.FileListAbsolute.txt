@@ -1,0 +1,14 @@
+/home/pupcia/Desktop/Studia/SEM5/ZTP/Cwiczenie5/bin/Debug/net8.0/Cwiczenie5
+/home/pupcia/Desktop/Studia/SEM5/ZTP/Cwiczenie5/bin/Debug/net8.0/Cwiczenie5.deps.json
+/home/pupcia/Desktop/Studia/SEM5/ZTP/Cwiczenie5/bin/Debug/net8.0/Cwiczenie5.runtimeconfig.json
+/home/pupcia/Desktop/Studia/SEM5/ZTP/Cwiczenie5/bin/Debug/net8.0/Cwiczenie5.dll
+/home/pupcia/Desktop/Studia/SEM5/ZTP/Cwiczenie5/bin/Debug/net8.0/Cwiczenie5.pdb
+/home/pupcia/Desktop/Studia/SEM5/ZTP/Cwiczenie5/obj/Debug/net8.0/Cwiczenie5.GeneratedMSBuildEditorConfig.editorconfig
+/home/pupcia/Desktop/Studia/SEM5/ZTP/Cwiczenie5/obj/Debug/net8.0/Cwiczenie5.AssemblyInfoInputs.cache
+/home/pupcia/Desktop/Studia/SEM5/ZTP/Cwiczenie5/obj/Debug/net8.0/Cwiczenie5.AssemblyInfo.cs
+/home/pupcia/Desktop/Studia/SEM5/ZTP/Cwiczenie5/obj/Debug/net8.0/Cwiczenie5.csproj.CoreCompileInputs.cache
+/home/pupcia/Desktop/Studia/SEM5/ZTP/Cwiczenie5/obj/Debug/net8.0/Cwiczenie5.dll
+/home/pupcia/Desktop/Studia/SEM5/ZTP/Cwiczenie5/obj/Debug/net8.0/refint/Cwiczenie5.dll
+/home/pupcia/Desktop/Studia/SEM5/ZTP/Cwiczenie5/obj/Debug/net8.0/Cwiczenie5.pdb
+/home/pupcia/Desktop/Studia/SEM5/ZTP/Cwiczenie5/obj/Debug/net8.0/Cwiczenie5.genruntimeconfig.cache
+/home/pupcia/Desktop/Studia/SEM5/ZTP/Cwiczenie5/obj/Debug/net8.0/ref/Cwiczenie5.dll
