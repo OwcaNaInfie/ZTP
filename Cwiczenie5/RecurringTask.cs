@@ -59,7 +59,7 @@ namespace Cwiczenie5
                 }
             }
 
-            return $"{Name}   {new string(chart)}";
+            return $"{new string(chart)}  {Name}";
         }
 
         public override string ToString()

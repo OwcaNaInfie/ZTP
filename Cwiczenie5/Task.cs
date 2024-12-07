@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace Cwiczenie5
 {
-    public class Task
+    public class Task : ITaskComponent
     {
         public string Name { get; }
         public DateTime StartDate { get; }
@@ -62,7 +62,7 @@ namespace Cwiczenie5
                     chart[i] = '#';
             }
 
-            return $"{Name}   {new string(chart)}";
+            return $"{new string(chart)}  {Name}";
         }
 
     }

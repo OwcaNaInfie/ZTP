@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/home/pupcia/Desktop/Studia/SEM5/ZTP/Cwiczenie5/Cwiczenie5.csproj": {}
+    "C:\\Users\\HP\\source\\repos\\ZTP2\\ZTP\\Cwiczenie5\\Cwiczenie5.csproj": {}
   },
   "projects": {
-    "/home/pupcia/Desktop/Studia/SEM5/ZTP/Cwiczenie5/Cwiczenie5.csproj": {
+    "C:\\Users\\HP\\source\\repos\\ZTP2\\ZTP\\Cwiczenie5\\Cwiczenie5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/pupcia/Desktop/Studia/SEM5/ZTP/Cwiczenie5/Cwiczenie5.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\ZTP2\\ZTP\\Cwiczenie5\\Cwiczenie5.csproj",
         "projectName": "Cwiczenie5",
-        "projectPath": "/home/pupcia/Desktop/Studia/SEM5/ZTP/Cwiczenie5/Cwiczenie5.csproj",
-        "packagesPath": "/home/pupcia/.nuget/packages/",
-        "outputPath": "/home/pupcia/Desktop/Studia/SEM5/ZTP/Cwiczenie5/obj/",
+        "projectPath": "C:\\Users\\HP\\source\\repos\\ZTP2\\ZTP\\Cwiczenie5\\Cwiczenie5.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP\\source\\repos\\ZTP2\\ZTP\\Cwiczenie5\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/pupcia/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -32,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -53,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.110/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

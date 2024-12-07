@@ -40,6 +40,18 @@ namespace Cwiczenie5
 			Console.WriteLine($"Zadania wykonane z opóźnieniem: {completedLate}");
 			Console.WriteLine($"Zadania oczekujące: {pending}");
 			Console.WriteLine($"Zadania oczekujące z przekroczonym terminem: {pendingLate}");
+
+            TaskGroup taskGroup = new("Grupa tasków");
+			taskGroup.AddComponent(task1);
+            taskGroup.AddComponent(task2);
+            taskGroup.AddComponent(task3);
+            taskGroup.AddComponent(task4);
+			var task5 = new RecurringTask("3A - Praca nad dokumentacją", new DateTime(2024, 10, 24), new DateTime(2024, 11, 15), 3);
+			taskGroup.AddComponent(task5);
+  
+            task5.MarkAsCompleted(new DateTime(2024, 11, 11));
+			Console.WriteLine(taskGroup.GenerateGanttChart(taskGroup.StartDate, taskGroup.EndDate));
+
 		}
 	}
 }

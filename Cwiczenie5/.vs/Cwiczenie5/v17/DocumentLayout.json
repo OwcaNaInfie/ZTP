@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\ZTP2\\ZTP\\Cwiczenie5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E0C50E-0CA9-4CBC-B33B-9DE3A24F2881}|Cwiczenie5.csproj|c:\\users\\hp\\source\\repos\\ztp2\\ztp\\cwiczenie5\\recurringtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7E0C50E-0CA9-4CBC-B33B-9DE3A24F2881}|Cwiczenie5.csproj|solutionrelative:recurringtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E0C50E-0CA9-4CBC-B33B-9DE3A24F2881}|Cwiczenie5.csproj|c:\\users\\hp\\source\\repos\\ztp2\\ztp\\cwiczenie5\\optionaltaskgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7E0C50E-0CA9-4CBC-B33B-9DE3A24F2881}|Cwiczenie5.csproj|solutionrelative:optionaltaskgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E0C50E-0CA9-4CBC-B33B-9DE3A24F2881}|Cwiczenie5.csproj|c:\\users\\hp\\source\\repos\\ztp2\\ztp\\cwiczenie5\\taskgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7E0C50E-0CA9-4CBC-B33B-9DE3A24F2881}|Cwiczenie5.csproj|solutionrelative:taskgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E0C50E-0CA9-4CBC-B33B-9DE3A24F2881}|Cwiczenie5.csproj|c:\\users\\hp\\source\\repos\\ztp2\\ztp\\cwiczenie5\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7E0C50E-0CA9-4CBC-B33B-9DE3A24F2881}|Cwiczenie5.csproj|solutionrelative:task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E0C50E-0CA9-4CBC-B33B-9DE3A24F2881}|Cwiczenie5.csproj|c:\\users\\hp\\source\\repos\\ztp2\\ztp\\cwiczenie5\\itaskcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7E0C50E-0CA9-4CBC-B33B-9DE3A24F2881}|Cwiczenie5.csproj|solutionrelative:itaskcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E0C50E-0CA9-4CBC-B33B-9DE3A24F2881}|Cwiczenie5.csproj|c:\\users\\hp\\source\\repos\\ztp2\\ztp\\cwiczenie5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7E0C50E-0CA9-4CBC-B33B-9DE3A24F2881}|Cwiczenie5.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RecurringTask.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ZTP2\\ZTP\\Cwiczenie5\\RecurringTask.cs",
+              "RelativeDocumentMoniker": "RecurringTask.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ZTP2\\ZTP\\Cwiczenie5\\RecurringTask.cs",
+              "RelativeToolTip": "RecurringTask.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T08:07:09.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OptionalTaskGroup.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ZTP2\\ZTP\\Cwiczenie5\\OptionalTaskGroup.cs",
+              "RelativeDocumentMoniker": "OptionalTaskGroup.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ZTP2\\ZTP\\Cwiczenie5\\OptionalTaskGroup.cs",
+              "RelativeToolTip": "OptionalTaskGroup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T07:51:14.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskGroup.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ZTP2\\ZTP\\Cwiczenie5\\TaskGroup.cs",
+              "RelativeDocumentMoniker": "TaskGroup.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ZTP2\\ZTP\\Cwiczenie5\\TaskGroup.cs",
+              "RelativeToolTip": "TaskGroup.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAC0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T07:51:25.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ZTP2\\ZTP\\Cwiczenie5\\Task.cs",
+              "RelativeDocumentMoniker": "Task.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ZTP2\\ZTP\\Cwiczenie5\\Task.cs",
+              "RelativeToolTip": "Task.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAAADkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T07:51:22.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ITaskComponent.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ZTP2\\ZTP\\Cwiczenie5\\ITaskComponent.cs",
+              "RelativeDocumentMoniker": "ITaskComponent.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ZTP2\\ZTP\\Cwiczenie5\\ITaskComponent.cs",
+              "RelativeToolTip": "ITaskComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T07:51:10.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ZTP2\\ZTP\\Cwiczenie5\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ZTP2\\ZTP\\Cwiczenie5\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAADUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T08:50:55.412Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

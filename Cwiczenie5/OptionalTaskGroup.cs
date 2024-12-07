@@ -40,7 +40,13 @@ namespace Cwiczenie5
 
         public override string ToString()
         {
-            return $"{Name} - Status: {GetStatus()}";
+            string output;
+            output = $"{Name} - Status: {GetStatus()}\n";
+            foreach (var component in _components)
+            {
+                output += component + "\n";
+            }
+            return output;
         }
 
         public string GenerateGanttChart(DateTime projectStart, DateTime projectEnd)

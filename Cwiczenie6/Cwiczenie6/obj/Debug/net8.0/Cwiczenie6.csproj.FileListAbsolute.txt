@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\ZTP2\ZTP\Cwiczenie6\Cwiczenie6\bin\Debug\net8.0\Cwiczenie6.exe
+C:\Users\HP\source\repos\ZTP2\ZTP\Cwiczenie6\Cwiczenie6\bin\Debug\net8.0\Cwiczenie6.deps.json
+C:\Users\HP\source\repos\ZTP2\ZTP\Cwiczenie6\Cwiczenie6\bin\Debug\net8.0\Cwiczenie6.runtimeconfig.json
+C:\Users\HP\source\repos\ZTP2\ZTP\Cwiczenie6\Cwiczenie6\bin\Debug\net8.0\Cwiczenie6.dll
+C:\Users\HP\source\repos\ZTP2\ZTP\Cwiczenie6\Cwiczenie6\bin\Debug\net8.0\Cwiczenie6.pdb
+C:\Users\HP\source\repos\ZTP2\ZTP\Cwiczenie6\Cwiczenie6\obj\Debug\net8.0\Cwiczenie6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\ZTP2\ZTP\Cwiczenie6\Cwiczenie6\obj\Debug\net8.0\Cwiczenie6.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ZTP2\ZTP\Cwiczenie6\Cwiczenie6\obj\Debug\net8.0\Cwiczenie6.AssemblyInfo.cs
+C:\Users\HP\source\repos\ZTP2\ZTP\Cwiczenie6\Cwiczenie6\obj\Debug\net8.0\Cwiczenie6.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ZTP2\ZTP\Cwiczenie6\Cwiczenie6\obj\Debug\net8.0\Cwiczenie6.sourcelink.json
+C:\Users\HP\source\repos\ZTP2\ZTP\Cwiczenie6\Cwiczenie6\obj\Debug\net8.0\Cwiczenie6.dll
+C:\Users\HP\source\repos\ZTP2\ZTP\Cwiczenie6\Cwiczenie6\obj\Debug\net8.0\refint\Cwiczenie6.dll
+C:\Users\HP\source\repos\ZTP2\ZTP\Cwiczenie6\Cwiczenie6\obj\Debug\net8.0\Cwiczenie6.pdb
+C:\Users\HP\source\repos\ZTP2\ZTP\Cwiczenie6\Cwiczenie6\obj\Debug\net8.0\Cwiczenie6.genruntimeconfig.cache
+C:\Users\HP\source\repos\ZTP2\ZTP\Cwiczenie6\Cwiczenie6\obj\Debug\net8.0\ref\Cwiczenie6.dll
