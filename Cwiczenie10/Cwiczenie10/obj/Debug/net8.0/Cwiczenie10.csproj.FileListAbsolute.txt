@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\ZTP\Cwiczenie10\Cwiczenie10\bin\Debug\net8.0\Cwiczenie10.exe
+C:\Users\HP\source\repos\ZTP\Cwiczenie10\Cwiczenie10\bin\Debug\net8.0\Cwiczenie10.deps.json
+C:\Users\HP\source\repos\ZTP\Cwiczenie10\Cwiczenie10\bin\Debug\net8.0\Cwiczenie10.runtimeconfig.json
+C:\Users\HP\source\repos\ZTP\Cwiczenie10\Cwiczenie10\bin\Debug\net8.0\Cwiczenie10.dll
+C:\Users\HP\source\repos\ZTP\Cwiczenie10\Cwiczenie10\bin\Debug\net8.0\Cwiczenie10.pdb
+C:\Users\HP\source\repos\ZTP\Cwiczenie10\Cwiczenie10\obj\Debug\net8.0\Cwiczenie10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\ZTP\Cwiczenie10\Cwiczenie10\obj\Debug\net8.0\Cwiczenie10.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ZTP\Cwiczenie10\Cwiczenie10\obj\Debug\net8.0\Cwiczenie10.AssemblyInfo.cs
+C:\Users\HP\source\repos\ZTP\Cwiczenie10\Cwiczenie10\obj\Debug\net8.0\Cwiczenie10.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ZTP\Cwiczenie10\Cwiczenie10\obj\Debug\net8.0\Cwiczenie10.dll
+C:\Users\HP\source\repos\ZTP\Cwiczenie10\Cwiczenie10\obj\Debug\net8.0\refint\Cwiczenie10.dll
+C:\Users\HP\source\repos\ZTP\Cwiczenie10\Cwiczenie10\obj\Debug\net8.0\Cwiczenie10.pdb
+C:\Users\HP\source\repos\ZTP\Cwiczenie10\Cwiczenie10\obj\Debug\net8.0\Cwiczenie10.genruntimeconfig.cache
+C:\Users\HP\source\repos\ZTP\Cwiczenie10\Cwiczenie10\obj\Debug\net8.0\ref\Cwiczenie10.dll
